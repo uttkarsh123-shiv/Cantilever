@@ -1,1 +1,10 @@
 @import 'tailwindcss';
+
+button{
+    padding:5px 10px;
+    /* background-color: #4a5568; gray-700 */
+    color: black;
+    border: 1px solid black;
+    border-radius: 50px; /* rounded-md */
+    cursor: pointer;
+}
